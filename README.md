@@ -2,8 +2,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentyn-fetisov-1625a144b)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valenticus?tab=repositories)
+[<img src="assets/ui/linkedin.svg" alt="Connect on LinkedIn" width="190" />](https://www.linkedin.com/in/valentyn-fetisov-1625a144b)
 
 </div>
 
@@ -41,17 +40,15 @@ Private tool for tracking AI coding-assistant usage and limits.
 
 **Web & applications**
 
-![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-181818?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-454545?style=flat-square&logo=pwa&logoColor=white)
+![React](assets/ui/react.svg) ![Next.js](assets/ui/nextjs.svg) ![TypeScript](assets/ui/typescript.svg) ![Vite](assets/ui/vite.svg) ![PWA](assets/ui/pwa.svg)
 
 **Backend & infrastructure**
 
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-181818?style=flat-square&logo=vercel&logoColor=white)
+![Supabase](assets/ui/supabase.svg) ![PostgreSQL](assets/ui/postgresql.svg) ![Cloudflare](assets/ui/cloudflare.svg) ![Vercel](assets/ui/vercel.svg)
 
 **Desktop & developer tooling**
 
-![Rust](https://img.shields.io/badge/Rust-181818?style=flat-square&logo=rust&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-AI coding agents · Workflow automation
+![Rust](assets/ui/rust.svg) ![PowerShell](assets/ui/powershell.svg) ![Git](assets/ui/git.svg) ![GitHub Actions](assets/ui/github-actions.svg) ![AI coding agents](assets/ui/ai-agents.svg) ![Automation](assets/ui/automation.svg)
 
 ### Certification
 
@@ -64,6 +61,6 @@ AI coding agents · Workflow automation
 <div align="center">
 
 **Interested in collaborating?**  
-[Connect on LinkedIn](https://www.linkedin.com/in/valentyn-fetisov-1625a144b)
+Reach out using the LinkedIn button above.
 
 </div>
