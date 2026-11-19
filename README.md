@@ -33,7 +33,10 @@ My work spans **React and TypeScript applications**, **Windows desktop tooling**
 
 ### Certification
 
-[**Google AI Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/E5LE84XCMP4E) · Google / Coursera
+[<img src="https://images.credly.com/images/782f33e7-c4b5-4d1d-a7ce-02f25b7b9a1e/blob" alt="Google AI Professional Certificate badge — verified on Credly" width="142" />](https://www.credly.com/go/jckpem8a4aUfrv677g17BA)
+
+**Google AI Professional Certificate** · Google / Coursera  
+[Verify my credential on Credly](https://www.credly.com/go/jckpem8a4aUfrv677g17BA)
 
 ---
 
