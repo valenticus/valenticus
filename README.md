@@ -1,10 +1,6 @@
+<p align="center"><img src="assets/profile-banner.svg" alt="Valentyn Fetisov — Building practical software, end to end. Web Applications · Desktop Tools · AI Automation" width="100%" /></p>
+
 <div align="center">
-
-# Hi, I'm Valentyn 👋
-
-**Software Developer · Web Apps · Desktop Tools · AI Automation**
-
-Based in Wrocław, Poland · Building software for real-world workflows
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentyn-fetisov-1625a144b)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valenticus?tab=repositories)
@@ -13,13 +9,13 @@ Based in Wrocław, Poland · Building software for real-world workflows
 
 ---
 
-### About me
+### About
 
 I build web applications, Progressive Web Apps, desktop utilities, and automation tools. My background in transportation and logistics helps me design software around real operational needs.
 
 My work spans **React and TypeScript applications**, **Windows desktop tooling**, and **AI-assisted development workflows**.
 
-### Selected projects
+### Selected work
 
 | Project | What it does | Explore |
 | :-- | :-- | :-- |
