@@ -31,10 +31,12 @@ Open-source desktop tooling for AI-assisted development. [View on GitHub](https:
 
 Private tooling for agent handoffs, shared configurations, repository synchronization, and safer Git workflows.
 
-#### 📊 Agent Monitor / Agent Limit Bar
-**Desktop utility · AI usage monitoring**
+#### 📊 [Agent Monitor (Agent Limit Bar)](https://github.com/valenticus/agent-monitor)
+**Windows desktop app · .NET 10 · WPF · Codex integration**
 
-Private tool for tracking AI coding-assistant usage and limits.
+Open-source tray utility that reads Codex usage limits through the experimental app-server API, with a compact status preview and single-instance behavior.
+
+[View repository](https://github.com/valenticus/agent-monitor)
 
 ### Technologies
 
@@ -48,7 +50,7 @@ Private tool for tracking AI coding-assistant usage and limits.
 
 **Desktop & developer tooling**
 
-![Rust](assets/ui/rust.svg) ![PowerShell](assets/ui/powershell.svg) ![Git](assets/ui/git.svg) ![GitHub Actions](assets/ui/github-actions.svg) ![AI coding agents](assets/ui/ai-agents.svg) ![Automation](assets/ui/automation.svg)
+![.NET](assets/ui/dotnet.svg) ![Rust](assets/ui/rust.svg) ![PowerShell](assets/ui/powershell.svg) ![Git](assets/ui/git.svg) ![GitHub Actions](assets/ui/github-actions.svg) ![AI coding agents](assets/ui/ai-agents.svg) ![Automation](assets/ui/automation.svg)
 
 ### Certification
 
