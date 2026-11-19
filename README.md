@@ -11,63 +11,59 @@
 
 ### About
 
-I build web applications, Progressive Web Apps, desktop utilities, and automation tools. My background in transportation and logistics helps me design software around real operational needs.
-
-My work spans **React and TypeScript applications**, **Windows desktop tooling**, and **AI-assisted development workflows**.
+I build web apps, PWAs, desktop utilities, and AI-assisted development tools. My background in transportation and logistics helps me turn real operational needs into practical software.
 
 ### Selected work
 
 #### 🚚 [Wesco Driver & Admin](https://github.com/valenticus/wesco-driver-showcase)
-
 **Fleet management · PWA · Web CRM · Automation**
 
-A production driver PWA and administrative CRM for fuel tracking, fleet operations, consumption analytics, and automated reporting. The native iOS app is in testing.
+Production driver PWA and admin CRM for fuel tracking, fleet operations, analytics, and reporting. An iOS app is in testing.
 
-[View public project showcase](https://github.com/valenticus/wesco-driver-showcase) · Source code private · Demo data only
+[Explore the public showcase](https://github.com/valenticus/wesco-driver-showcase) · Demo data; source code private.
 
 #### 🖥️ [Nook](https://github.com/valenticus/nook)
+**Windows utility · Rust · AI coding-assistant integrations**
 
-**Windows desktop utility · Rust · AI assistant integrations**
-
-Open-source desktop tooling with integrations for AI coding assistants.
-
-[View repository](https://github.com/valenticus/nook)
+Open-source desktop tooling for AI-assisted development. [View on GitHub](https://github.com/valenticus/nook).
 
 #### 🤖 Agent Kit
+**Multi-agent workflows · Git · Windows & macOS**
 
-**AI development workflows · Git · Windows & macOS**
-
-Private developer tooling for agent handoffs, shared configurations, repository synchronization, and safe Git workflows.
-
-*Private project — source code not publicly available.*
+Private tooling for agent handoffs, shared configurations, repository synchronization, and safer Git workflows.
 
 #### 📊 Agent Monitor / Agent Limit Bar
+**Desktop utility · AI usage monitoring**
 
-**Desktop tooling · AI coding assistants**
-
-Private utility focused on usage and limit monitoring for AI coding assistants.
-
-*Private project — source code not publicly available.*
+Private tool for tracking AI coding-assistant usage and limits.
 
 ### Technologies
 
-**Web:** React · Next.js · TypeScript · JavaScript · Vite · PWA  
-**Backend & data:** Supabase · PostgreSQL · Cloudflare Workers  
-**Desktop & automation:** Rust · Git · GitHub Actions · PowerShell · AI coding agents  
-**Delivery:** Vercel · Cloudflare
+**Web & applications**
+
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-181818?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-454545?style=flat-square&logo=pwa&logoColor=white)
+
+**Backend & infrastructure**
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-181818?style=flat-square&logo=vercel&logoColor=white)
+
+**Desktop & developer tooling**
+
+![Rust](https://img.shields.io/badge/Rust-181818?style=flat-square&logo=rust&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+AI coding agents · Workflow automation
 
 ### Certification
 
-[<img src="https://images.credly.com/images/782f33e7-c4b5-4d1d-a7ce-02f25b7b9a1e/blob" alt="Google AI Professional Certificate badge — verified on Credly" width="108" />](https://www.credly.com/go/jckpem8a4aUfrv677g17BA)
+[<img src="https://images.credly.com/images/782f33e7-c4b5-4d1d-a7ce-02f25b7b9a1e/blob" alt="Google AI Professional Certificate — view verified badge on Credly" width="112" />](https://www.credly.com/go/jckpem8a4aUfrv677g17BA)
 
-**Google AI Professional Certificate** · Google / Coursera  
-[Verify my credential on Credly](https://www.credly.com/go/jckpem8a4aUfrv677g17BA)
+**Google AI Professional Certificate** · Google / Coursera
 
 ---
 
 <div align="center">
 
 **Interested in collaborating?**  
-[Connect with me on LinkedIn](https://www.linkedin.com/in/valentyn-fetisov-1625a144b)
+[Connect on LinkedIn](https://www.linkedin.com/in/valentyn-fetisov-1625a144b)
 
 </div>
