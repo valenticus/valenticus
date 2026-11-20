@@ -31,12 +31,12 @@ Open-source desktop tooling for AI-assisted development. [View on GitHub](https:
 
 Private tooling for agent handoffs, shared configurations, repository synchronization, and safer Git workflows.
 
-#### 📊 [Agent Monitor (Agent Limit Bar)](https://github.com/valenticus/agent-monitor)
-**Windows desktop app · .NET 10 · WPF · Codex integration**
+#### 📊 [Agent Usage Monitor (AUM)](https://github.com/valenticus/agent-usage-monitor)
+**Windows desktop · Rust · Slint · Codex & Claude Code**
 
-Open-source tray utility that reads Codex usage limits through the experimental app-server API, with a compact status preview and single-instance behavior.
+Open-source Windows tray app for monitoring AI coding-assistant usage limits and reset windows. Includes local settings, alerts, light/dark themes, and Ukrainian, English, and Polish interfaces. Codex uses its app-server; Claude Code integration is optional through its documented status-line interface.
 
-[View repository](https://github.com/valenticus/agent-monitor)
+**In development** · [Source & setup](https://github.com/valenticus/agent-usage-monitor) · [MIT License](https://github.com/valenticus/agent-usage-monitor/blob/main/LICENSE)
 
 ### Technologies
 
@@ -50,7 +50,7 @@ Open-source tray utility that reads Codex usage limits through the experimental 
 
 **Desktop & developer tooling**
 
-![.NET](assets/ui/dotnet.svg) ![Rust](assets/ui/rust.svg) ![PowerShell](assets/ui/powershell.svg) ![Git](assets/ui/git.svg) ![GitHub Actions](assets/ui/github-actions.svg) ![AI coding agents](assets/ui/ai-agents.svg) ![Automation](assets/ui/automation.svg)
+![Rust](assets/ui/rust.svg) ![PowerShell](assets/ui/powershell.svg) ![Git](assets/ui/git.svg) ![GitHub Actions](assets/ui/github-actions.svg) ![AI coding agents](assets/ui/ai-agents.svg) ![Automation](assets/ui/automation.svg)
 
 ### Certification
 
