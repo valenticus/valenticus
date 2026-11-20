@@ -3,6 +3,7 @@
 <div align="center">
 
 [<img src="assets/ui/linkedin.svg" alt="Connect on LinkedIn" width="190" />](https://www.linkedin.com/in/valentyn-fetisov-1625a144b)
+[<img src="assets/ui/email.svg" alt="Contact via Email" width="190" />](mailto:fetisov.valentine@gmail.com)
 
 </div>
 
@@ -63,6 +64,6 @@ Open-source tray utility that reads Codex usage limits through the experimental 
 <div align="center">
 
 **Interested in collaborating?**  
-Reach out using the LinkedIn button above.
+Reach out via LinkedIn or email using the buttons above.
 
 </div>
