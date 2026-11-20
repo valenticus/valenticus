@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[<img src="assets/ui/linkedin.svg" alt="Connect on LinkedIn" width="152" />](https://www.linkedin.com/in/valentyn-fetisov-1625a144b) &nbsp; [<img src="assets/ui/email.svg" alt="Contact via Email" width="152" />](mailto:fetisov.valentine@gmail.com)
+[<img src="assets/ui/linkedin.svg" alt="LinkedIn" width="40" height="40" />](https://www.linkedin.com/in/valentyn-fetisov-1625a144b) &nbsp; [<img src="assets/ui/email.svg" alt="Email" width="40" height="40" />](mailto:fetisov.valentine@gmail.com) &nbsp; [<img src="assets/ui/lets-talk.svg" alt="Let's Talk" width="112" height="40" />](mailto:fetisov.valentine@gmail.com?subject=Project%20inquiry)
 
 </div>
 
@@ -63,6 +63,6 @@ Open-source tray utility that reads Codex usage limits through the experimental 
 <div align="center">
 
 **Interested in collaborating?**  
-Reach out via LinkedIn or email using the buttons above.
+Use the contact links above to discuss a project.
 
 </div>
