@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[<img src="assets/ui/linkedin.svg" alt="LinkedIn" width="40" height="40" />](https://www.linkedin.com/in/valentyn-fetisov-1625a144b) &nbsp; [<img src="assets/ui/email.svg" alt="Email" width="40" height="40" />](mailto:fetisov.valentine@gmail.com) &nbsp; [<img src="assets/ui/lets-talk.svg" alt="Let's Talk" width="112" height="40" />](mailto:fetisov.valentine@gmail.com?subject=Project%20inquiry)
+[<img src="assets/ui/linkedin.svg" alt="LinkedIn" width="40" height="40" />](https://www.linkedin.com/in/valentyn-fetisov) &nbsp; [<img src="assets/ui/email.svg" alt="Email" width="40" height="40" />](mailto:fetisov.valentine@gmail.com) &nbsp; [<img src="assets/ui/lets-talk.svg" alt="Let's Talk" width="112" height="40" />](mailto:fetisov.valentine@gmail.com?subject=Project%20inquiry)
 
 </div>
 
