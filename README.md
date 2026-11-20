@@ -2,8 +2,7 @@
 
 <div align="center">
 
-[<img src="assets/ui/linkedin.svg" alt="Connect on LinkedIn" width="190" />](https://www.linkedin.com/in/valentyn-fetisov-1625a144b)
-[<img src="assets/ui/email.svg" alt="Contact via Email" width="190" />](mailto:fetisov.valentine@gmail.com)
+[<img src="assets/ui/linkedin.svg" alt="Connect on LinkedIn" width="152" />](https://www.linkedin.com/in/valentyn-fetisov-1625a144b) &nbsp; [<img src="assets/ui/email.svg" alt="Contact via Email" width="152" />](mailto:fetisov.valentine@gmail.com)
 
 </div>
 
