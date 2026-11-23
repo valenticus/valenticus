@@ -32,11 +32,11 @@ Open-source desktop tooling for AI-assisted development. [View on GitHub](https:
 Private tooling for agent handoffs, shared configurations, repository synchronization, and safer Git workflows.
 
 #### 📊 [Agent Usage Monitor (AUM)](https://github.com/valenticus/agent-usage-monitor)
-**Windows desktop · Rust · Slint · Codex & Claude Code**
+**Windows 10+ (x64) · Rust · Slint · Codex & Claude Code**
 
-Open-source Windows tray app for monitoring AI coding-assistant usage limits and reset windows. Includes local settings, alerts, light/dark themes, and Ukrainian, English, and Polish interfaces. Codex uses its app-server; Claude Code integration is optional through its documented status-line interface.
+Open-source Windows tray app that tracks **5-hour and weekly usage limits**, remaining quota and reset countdowns for AI coding assistants. Features automatic and manual refresh, configurable Windows alerts, three themes (Graphite, Bluish Dark and Light), and four interface languages (UA, EN, PL, RU). Claude Code monitoring is opt-in.
 
-**In development** · [Source & setup](https://github.com/valenticus/agent-usage-monitor) · [MIT License](https://github.com/valenticus/agent-usage-monitor/blob/main/LICENSE)
+**Latest release: [v0.2.0](https://github.com/valenticus/agent-usage-monitor/releases/tag/v0.2.0)** · [Source code](https://github.com/valenticus/agent-usage-monitor) · [MIT License](https://github.com/valenticus/agent-usage-monitor/blob/main/LICENSE)
 
 ### Technologies
 
