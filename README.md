@@ -36,7 +36,11 @@ Private tooling for agent handoffs, shared configurations, repository synchroniz
 
 Open-source Windows tray app that tracks **5-hour and weekly usage limits**, remaining quota and reset countdowns for AI coding assistants. Features automatic and manual refresh, configurable Windows alerts, three themes (Graphite, Bluish Dark and Light), and four interface languages (UA, EN, PL, RU). Claude Code monitoring is opt-in.
 
-**Latest release: [v0.2.0](https://github.com/valenticus/agent-usage-monitor/releases/tag/v0.2.0)** · [Source code](https://github.com/valenticus/agent-usage-monitor) · [MIT License](https://github.com/valenticus/agent-usage-monitor/blob/main/LICENSE)
+**[Available on Microsoft Store](https://apps.microsoft.com/detail/9N20DHG8SSS1)** · **[GitHub release v0.2.0](https://github.com/valenticus/agent-usage-monitor/releases/tag/v0.2.0)** · [Source code](https://github.com/valenticus/agent-usage-monitor) · [MIT License](https://github.com/valenticus/agent-usage-monitor/blob/main/LICENSE)
+
+<a href="https://get.microsoft.com/installer/download/9N20DHG8SSS1?referrer=appbadge">
+  <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download Agent Usage Monitor from Microsoft Store" width="200">
+</a>
 
 ### Technologies
 
